@@ -1,0 +1,116 @@
+/* Musical Melodies owns this website */
+/* Website Developed by Soham Sane*/
+/* If you want to copy the code you may but give credit to Soham Sane */
+.god-back {
+background-image: url(https://i.ibb.co/jwVBdRM/dark-blue-back.png);
+}
+
+
+#title-box {
+  background-image: url(https://i.ibb.co/qJd3Fcc/recep.gif);
+  background-repeat: no-repeat;
+  width: 1552px;
+  height: 554px;
+  background-position: center;
+}
+
+#olw-box {
+  background-image: url(https://i.ibb.co/x1t5vcf/OLW.png);
+  background-repeat: no-repeat;
+  width: 1552px;
+  height: 554px;
+  background-position: center;
+  text-align: center;
+}
+
+.olw-video {
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #8a8786;
+  border-width: medium;
+  position: relative;
+  top: 160px;
+}
+
+#aboutus-box {
+  background-image: url(https://i.ibb.co/T2sJzNg/aboutus.png);
+  background-repeat: no-repeat;
+  width: 1552px;
+  height: 554px;
+  background-position: center;
+  text-align: center;
+}
+
+#igyt-box {
+  background-image: url(https://i.ibb.co/6mzhRY1/igyt.png);
+  background-repeat: no-repeat;
+  width: 1552px;
+  height: 554px;
+  background-position: center;
+  text-align: center;
+}
+
+.igyt-promo-1 {
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #8a8786;
+  border-width: medium;
+  margin-top: 148px;
+  margin-right: 50px;
+}
+
+.igyt-promo-2 {
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #8a8786;
+  border-width: medium;
+  margin-left: 50px;
+}
+
+#contactus-box {
+  background-image: url(https://i.ibb.co/GVgJnvX/contact-us.png);
+  background-repeat: no-repeat;
+  width: 1552px;
+  height: 554px;
+  background-position: center;
+  text-align: center;
+}
+
+.email-form {
+  display: inline-block;
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #8a8786;
+  border-width: medium;
+  /* margin-left: 470px; */
+  margin-top: 170px;
+}
+
+.mail-us-btn {
+  display: inline-block;
+  margin-left: 300px;
+  position: relative;
+  bottom: 270px;
+  right: 170px;
+}
+
+#footer-box {
+  background-repeat: no-repeat;
+  width: 1552px;
+  height: 40px;
+  background-position: center;
+  text-align: center;
+}
+
+.footer-text {
+  padding-top: 5px;
+}
+
+.soham-link {
+  color: #212529;
+}
+
+.soham-link:hover {
+  color: #212529;
+  text-decoration: underline;
+}
